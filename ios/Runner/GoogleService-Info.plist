@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833775209587-4c2r0keg7td3a0jv9k7jk94dsih5s207.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833775209587-4c2r0keg7td3a0jv9k7jk94dsih5s207</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>833775209587-0u4nqmct55nqfahi7ap7t2pceq16lut6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBo2C7OqeK-AHG--8H9tRjAkrwlXlYL-f0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833775209587</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tensoftware.virat</string>
+	<key>PROJECT_ID</key>
+	<string>virat-6900f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>virat-6900f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833775209587:ios:d278ec7b88e3df6a37ae06</string>
+</dict>
+</plist>
